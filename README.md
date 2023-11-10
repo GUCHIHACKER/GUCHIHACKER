@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi, I'm Olivier
 
-<!--
-**GUCHIHACKER/GUCHIHACKER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/olivier_boschko)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in//)
+  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com//)
+  <a href="mailto:olivierlaflammeinquiry@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+  
+I'm a passionate Red Team Operator @RBC previously Cyber Security Analyst @GoSecure. I love CTF's, HackTheBox, and most puzzle games! I know nothing about reverse engineering and binary exploit, but I know how to get flags. I specialize in mind-reading and guessing flags. I primarily solve challenges ranging from pwn to crypto, from crypto to bruteforce, from butefore to guessing, from guessing to ESP…
 
-Here are some ideas to get you started:
+- 🔭 At the moment im spending a lot of time developing gold farming / botting scripts & plugins
+- 🌱 I’m currently learning everything 
+- 👯 Always looking to collaborate with others 
+- 🥅 2023 Goals: Blog more
+- ⚡ Fun fact: I explain most concepts & ideas in Microsoft Paint 
+- [📚](https://boschko.ca) My Blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OlivierLaflamme&show_icons=true&hide_border=true" />                   
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/Boschko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
+
